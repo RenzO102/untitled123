@@ -1,9 +1,7 @@
 package org.example;
 
 import com.alibaba.fastjson.JSON;
-import com.google.gson.Gson;
-
-import java.io.FileReader;
+import org.example.bean.People;
 
 public class GsonParser {
     public People parse() {
