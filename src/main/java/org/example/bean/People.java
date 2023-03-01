@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bean;
 
 import java.time.LocalDate;
 
